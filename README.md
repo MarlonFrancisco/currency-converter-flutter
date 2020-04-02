@@ -4,7 +4,7 @@ Flutter application.
 
 ## Getting Started
 
-[#](./images/home.png)
+![#](./images/home.png)
 
 Flutter mobile app for currency conversion (Real, Dollar and Euro) using [HGFinance's api](https://hgbrasil.com/status/finance).
 
